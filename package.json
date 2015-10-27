@@ -1,0 +1,19 @@
+{
+  "name": "devops-demo-app",
+  "version": "0.0.1",
+  "description": "demo helios deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udomsak/devops-demo-app.git"
+  },
+  "author": "udomsak.chundang@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udomsak/devops-demo-app/issues"
+  },
+  "homepage": "https://github.com/udomsak/devops-demo-app#readme"
+}
