@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/udomsak/devops-demo-app.git"
   },
+    "dependencies": {
+        "express": "*"
+    },
+
   "author": "udomsak.chundang@gmail.com",
   "license": "ISC",
   "bugs": {
